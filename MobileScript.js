@@ -173,7 +173,7 @@ var trya = function(){
 
 
                 gsap.from(".services",{
-                    x:-300,
+                    x:-100,
                     duration:1,
                     opacity:0,
                     scrollTrigger:{
@@ -186,7 +186,7 @@ var trya = function(){
                     }
                 })
                 gsap.from(".elem.one",{
-                    x:-300,
+                    x:-100,
                     y:-100,
                     duration:1,
                     opacity:0,
@@ -200,7 +200,7 @@ var trya = function(){
                     }
                 })
                 gsap.from(".elem.two",{
-                    x:300,
+                    x:100,
                     y:-100,
                     duration:1,
                     opacity:0,
@@ -214,7 +214,7 @@ var trya = function(){
                     }
                 })
                 gsap.from(".elem.three",{
-                    x:-300,
+                    x:-100,
                     y:100,
                     duration:1,
                     opacity:0,
@@ -228,7 +228,7 @@ var trya = function(){
                     }
                 })
                 gsap.from(".elem.four",{
-                    x:300,
+                    x:100,
                     y:100,
                     duration:1,
                     opacity:0,
